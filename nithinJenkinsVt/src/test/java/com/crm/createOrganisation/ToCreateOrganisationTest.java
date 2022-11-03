@@ -20,7 +20,6 @@ public class ToCreateOrganisationTest extends BaseClass{
 	public void createOrganisationTest(){
 
 		//To get random number
-		//this is nithin branch
 		
 		int randNum = jLib.getRandomNumber();
 
