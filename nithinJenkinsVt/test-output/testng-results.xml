@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[createOrganisationTest is pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-11-03T11:21:18 IST" name="Default suite" finished-at="2022-11-03T11:21:49 IST" duration-ms="31849">
+    <groups>
+    </groups>
+    <test started-at="2022-11-03T11:21:18 IST" name="Default test" finished-at="2022-11-03T11:21:49 IST" duration-ms="31849">
+      <class name="com.crm.createOrganisation.ToCreateOrganisationTest">
+        <test-method is-config="true" signature="dbConfig()[pri:0, instance:com.crm.createOrganisation.ToCreateOrganisationTest@4b45a2f5]" started-at="2022-11-03T11:21:17 IST" name="dbConfig" finished-at="2022-11-03T11:21:17 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConfig -->
+        <test-method is-config="true" signature="launchTheBrowser()[pri:0, instance:com.crm.createOrganisation.ToCreateOrganisationTest@4b45a2f5]" started-at="2022-11-03T11:21:18 IST" name="launchTheBrowser" finished-at="2022-11-03T11:21:27 IST" duration-ms="9380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTheBrowser -->
+        <test-method is-config="true" signature="loginToAppln()[pri:0, instance:com.crm.createOrganisation.ToCreateOrganisationTest@4b45a2f5]" started-at="2022-11-03T11:21:27 IST" name="loginToAppln" finished-at="2022-11-03T11:21:33 IST" duration-ms="6157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAppln -->
+        <test-method signature="createOrganisationTest()[pri:0, instance:com.crm.createOrganisation.ToCreateOrganisationTest@4b45a2f5]" started-at="2022-11-03T11:21:33 IST" name="createOrganisationTest" finished-at="2022-11-03T11:21:48 IST" duration-ms="14397" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createOrganisationTest is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganisationTest -->
+        <test-method is-config="true" signature="logoutFromAppln()[pri:0, instance:com.crm.createOrganisation.ToCreateOrganisationTest@4b45a2f5]" started-at="2022-11-03T11:21:48 IST" name="logoutFromAppln" finished-at="2022-11-03T11:21:49 IST" duration-ms="1288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromAppln -->
+        <test-method is-config="true" signature="closeTheBrowser()[pri:0, instance:com.crm.createOrganisation.ToCreateOrganisationTest@4b45a2f5]" started-at="2022-11-03T11:21:49 IST" name="closeTheBrowser" finished-at="2022-11-03T11:21:49 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+        <test-method is-config="true" signature="closeDBconfig()[pri:0, instance:com.crm.createOrganisation.ToCreateOrganisationTest@4b45a2f5]" started-at="2022-11-03T11:21:50 IST" name="closeDBconfig" finished-at="2022-11-03T11:21:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDBconfig -->
+      </class> <!-- com.crm.createOrganisation.ToCreateOrganisationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
